@@ -1,9 +1,11 @@
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+Clone the repo or download the app
+and then NPM INSTALL then just npm start it will run
+
+
+
 
 
 
