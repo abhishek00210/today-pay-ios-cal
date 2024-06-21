@@ -154,7 +154,7 @@ const Calculator = () => {
           setInput((prev) => prev + 'e');
           return;
         case 'Rand':
-          evaluation = Math.random();
+          evaluation = Math.floor(Math.random()*10);
           break;
         default:
           evaluation = 'Error';
